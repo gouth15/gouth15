@@ -20,6 +20,7 @@ This is a multiline code
 
 `#ff0000` This is red color
 `#ff00ff` This is a random color
+`#f0f0f0` This is a new color added to the list
 
 This is a link [Link Wrap](https://www.google.com).
 This is section link to the write code [Code](/app.py).
