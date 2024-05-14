@@ -21,8 +21,8 @@ This is a multiline code
 `#ff0000` This is red color
 `#ff00ff` This is a random color
 
-This is a link [Link Wrap](https://www.google.com)
-This is section link to the write code [Code](/app.py)
+This is a link [Link Wrap](https://www.google.com).
+This is section link to the write code [Code](/app.py).
 [ReadMe file for this proejct](README.md)
 
 ![This is how to upload images](/Horizontal%20Projection%20Profile.png)
