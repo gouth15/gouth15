@@ -55,6 +55,9 @@ Sample Reference 2[^2]
 > [ALERT]
 > This is a alert
 
+> [!CAUTION]
+> This is a caution message
+
 | Head 1 | Head 2 |
 | --- | --- |
 | Data 1 | Data 2 |
