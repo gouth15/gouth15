@@ -52,7 +52,7 @@ Sample Reference 2[^2]
 > [!NOTE]
 > This is a note
 
-> [ALERT]
+> [!ALERT]
 > This is a alert
 
 > [!CAUTION]
