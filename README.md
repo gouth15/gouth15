@@ -1,68 +1,56 @@
-# First Level Heading
-## Second Level Heading
-### Third Level Heading
+# Hi there! I'm Goutham S 👋
 
-**Bold Text**
-*Italic Text*
-~~Strikeout Text~~
-**Bold and _Nested Italic_**
-***All Bold and Italic Text***
-This is a <sub>Subscript</sub>
-This is a <sup>Superscript</sup>
+Welcome to my GitHub profile! I am an aspiring developer and data enthusiast, eager to explore the world of technology and make meaningful contributions. Here's a little about me:
 
-> This is a quote text
+---
 
-`Single line code`
-```
-Multi line code
-This is a multiline code
-```
+## 🌿 About Me
 
-`#ff0000` This is red color
-`#ff00ff` This is a random color
-`#f0f0f0` This is a new color added to the list
+- ✨ **Objective**: Driven and eager to gain practical experience through meaningful contributions, with a strong desire to learn and grow. I focus on building customized applications with a determined and optimistic approach.
+- 🏠 Based in **Chennai, India**.
+- 📧 Reach me at: [gouthams.330@gmail.com](mailto:gouthams.330@gmail.com)
+- 🌐 Connect with me on: [LinkedIn](https://linkedin.com/in/gouths) | [GitHub](https://github.com/gouth15)
 
-This is a link [Link Wrap](https://www.google.com).
-This is section link to the write code [Code](/app.py).
-[ReadMe file for this proejct](README.md)
+---
 
-![This is how to upload images](/Horizontal%20Projection%20Profile.png)
+## 💡 Skills & Tools
 
-- List
-* List
-+ List
+### Programming Languages
 
-1. Order List 1
-2. Order List 2
-3. Order List 3
+- Python
+- Scala
+- C++
 
-1. Ordered Main List
-    - Nested List 1
-        - Nested List 2
+### Tools & Technologies
 
-- [ ] Incomplete Task
-- [x] Completed Task
+- Docker
+- Figma
+- Git & GitHub
 
-@gouth15 thats me
+---
 
-Sample Reference 1[^1]
-Sample Reference 2[^2]
-[^1]: Ref 1
-[^2]: Ref 2
+## 🔧 Projects
 
-> [!NOTE]
-> This is a note
+### [Currency Classifier](#)
 
-> [!ALERT]
-> This is a alert
+Implemented a CNN model to classify Indian currency denominations with 95% accuracy.
 
-> [!CAUTION]
-> This is a caution message
+### [AI Chess Engine](#)
 
-| Head 1 | Head 2 |
-| --- | --- |
-| Data 1 | Data 2 |
-| Data 3 | Data 4 |
+Built a machine learning-based chess engine capable of simulating different strategies.
 
-This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
+### [Automated Parking Assistant](#)
 
+Trained a machine learning model using CNN to assist incoming vehicles on parking space availability.
+
+---
+
+## 💼 Experience
+
+### Machine Learning Intern
+
+**iTech India Pvt. Ltd.** | Chennai\
+*February 2024 – August 2024*
+
+- Developed APIs in Python and Scala.
+- Explored AWS services for cloud-based solutions.
